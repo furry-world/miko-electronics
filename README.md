@@ -1,4 +1,4 @@
 # Miko Electronics
-Formed by 4 engineers who previously worked on the [Atlantis](https://github.com/furry-world/atlantis) C24, Minotaur started with developing/publishing games.
+Formed by some engineers who previously worked on the Atlantis C24, Minotaur started with developing/publishing games.
 
-Later they released their own machines and renamed as Miko, then formed a subsidiary named Miko Interactive and renamed as Miko Electronics.
+Later they released their own machines and renamed as Miko Electronics and formed a subsidiary named Miko Interactive for handling development and publishing of games.
