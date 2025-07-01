@@ -1,12 +1,15 @@
 ## 1980:
 - Stuff written here about a lower-end counterpart for the C24 that was rejected by Atlantis
 - Some engineers leave Atlantis after the C24 was released 
-- Minotaur Software was formed in late 1982
+- Minotaur was formed in late 1982
 ## 1981:
 - Work started on Artemis
 ## 1983:
 - Artemis is released in Europe and Asia (unreleased in US due to 1983 American game crash)
 - Work started on Orion
+## 1984:
+- Minotaur was renamed to Miko Electronics
+- Miko Interactive was formed
 ## 1985:
 - Orion is released 
 - Work started on Orion II
