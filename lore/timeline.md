@@ -1,7 +1,7 @@
 ## 1980:
 - Stuff written here about a lower-end counterpart for the C24 that was rejected by Atlantis
 - Some engineers leave Atlantis after the C24 was released 
-- Minotaur was formed in late 1982
+- Minotaur was formed in late 1980
 ## 1981:
 - Work started on Artemis
 ## 1983:
@@ -17,7 +17,7 @@
 - Orion II is released
 ## 1988:
 - Work started on Cygnus
-## 1990:
+## 1991:
 - Cygnus is released
 ## early 199x:
 - Work started on Andromeda working with Galileo
