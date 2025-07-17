@@ -17,7 +17,7 @@
 - Orion II is released
 ## 1988:
 - Work started on Cygnus
-## 1991:
+## 1990:
 - Cygnus is released
 ## early 199x:
 - Work started on Andromeda working with Galileo
